@@ -1,5 +1,4 @@
 from watchdog.observers import Observer
-from platform import python_version
 
 import os 
 import json
